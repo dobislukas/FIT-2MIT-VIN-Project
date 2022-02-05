@@ -3,7 +3,7 @@ My unfortunately late VIN project
 
 Matikolaz
 
-INSTALL: To use this project you can download standalone executable.
+INSTALL: To install this project you can download matikolaz.py script or download standalone executable.
 
 RUN: "python3 matikolaz" or from standalone executable "./matikolaz".
 
